@@ -12,4 +12,10 @@ It’s designed to practice core programming concepts like loops, conditionals, 
  JAVASCRIPT
 
  ##USAGE
+
+ This project is written in JavaScript and can be run using Node.js. Each function is stored in .js files and can be tested directly from the terminal.
+
+ ##LICENSE
+
+ 
  
