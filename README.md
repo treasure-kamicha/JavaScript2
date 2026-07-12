@@ -21,6 +21,8 @@ It’s designed to practice core programming concepts like loops, conditionals, 
 
  ## SCREENSHOT
 
+ ![Project Screenshot](2026-07-12%20105429.png)
+
  
 
  
